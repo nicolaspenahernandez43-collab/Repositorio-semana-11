@@ -1,0 +1,4 @@
+La interfaz tendría un formulario para crear una nueva causa con el título, la descripción y la fecha. 
+También mostraría una lista de las causas disponibles para que los usuarios puedan consultarlas. 
+Cada causa tendría un botón para apoyar la iniciativa y un contador que indique cuántos apoyos ha recibido. 
+La interfaz sería clara, fácil de usar y no mostraría información privada de los usuarios.

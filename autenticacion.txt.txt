@@ -1,0 +1,7 @@
+El login en una aplicación sirve para identificar a los usuarios antes de permitirles ingresar al sistema.
+
+Algunas rutas deben estar protegidas para que solo las personas autorizadas puedan acceder a información o funciones importantes.
+
+No se deben mostrar públicamente contraseñas, documentos de identidad, teléfonos, direcciones, claves de API, tokens ni otros datos personales.
+
+De esta manera se protege la privacidad de los usuarios y la seguridad de la plataforma.
